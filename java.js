@@ -30,9 +30,9 @@
 // }
 
 
-// let son1 = Number(prompt("Birinchi sonni kiriting:"));
-// let operator = prompt("Amalni kiriting (+, -, *, /):");
-// let son2 = Number(prompt("Ikkinchi sonni kiriting:"));
+// let son1 = Number(prompt("sonni kiriting:"));
+// let operator = prompt("Amalni kiriting :");
+// let son2 = Number(prompt(" sonni kiriting:"));
 
 // if (operator === "+") {
 //   alert(son1 + son2);
